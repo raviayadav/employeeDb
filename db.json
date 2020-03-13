@@ -1,0 +1,28 @@
+{
+    "Employees": [
+        {
+            "name": "Ravi Yadav",
+            "dob": "1990-06-18",
+            "designation": "Associate Tech Lead",
+            "department": "PDT-1"
+        },
+        {
+            "name": "Vaibhav Sampat",
+            "dob": "1991-02-13",
+            "designation": "Associate Tech Lead",
+            "department": "PDT-1"
+        },
+        {
+            "name": "Shalini Jha",
+            "dob": "1991-08-03",
+            "designation": "Associate Tech Lead",
+            "department": "PDT-1"
+        },
+        {
+            "name": "Sanket",
+            "dob": "1996-03-24",
+            "designation": "Tech Lead",
+            "department": "PDT-1"
+        }    
+    ]
+}
